@@ -9,6 +9,7 @@
 }
 /*footer*/
 .footer {
+  margin-bottom: 10px;
 text-align: center;
 padding-top: 20px;
 padding-bottom: 20px;
@@ -389,17 +390,18 @@ display: block;
 
 /*ganaste*/
 .bodyganaste {
-  background-image: url(/juego/imagenes/background\ champions.jpg);
+  background-image: url(./juego/imagenes/background\ champions.jpg);
   background-size: cover;
   overflow: hidden;
   width: 100%;
 }
 .h1ganaste {
 color: #90acd0;
-background-color: #0d1b2a;
+background-color: #13273d;
 }
 .h2ganaste {
 color: #90acd0;
+margin: 8px;
 }
 
 
