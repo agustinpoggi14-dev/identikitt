@@ -38,6 +38,7 @@ margin-right: 15px;
 }
 .ulnavegacion {
     text-align: right;
+
 }
 .ulnavegacion a:hover {
     background-color: #1b263b;
@@ -45,7 +46,7 @@ margin-right: 15px;
 .ulnavegacion {
 background-color:#0d1b2a;
 text-align: right;
-padding: 5px;
+padding: 10px;
 }
 
 
@@ -364,7 +365,6 @@ background-size: cover;
 .h1juego{
 background-color: #02010a; 
 color: #0711d5;
-margin-top: 1pt;
 margin-left: 0;
 margin-right: 0;
 width: 100%;
