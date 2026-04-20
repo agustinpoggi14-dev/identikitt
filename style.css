@@ -356,7 +356,7 @@ padding: 20px;
 
  /*juego*/
 .bodyjuego {
-background-image: url(/juego/imagenes/background\ champions.jpg);
+background-image: url(./juego/imagenes/background\ champions.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
